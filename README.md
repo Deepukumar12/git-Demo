@@ -1,4 +1,4 @@
 # git-Demo
 This is my git repository
 <br />
-Author - Deepu Kumar
+Author - Deepu Kumar (student)
